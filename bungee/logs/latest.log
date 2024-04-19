@@ -49,3 +49,5 @@
 [19:33:56] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [19:33:56] [Netty Boss IO Thread #0/WARN]: Could not bind to host /127.0.0.1:25577
 io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[19:33:59] [Skin Download Thread #1/ERROR] [EaglercraftXBungee]: Exception loading vanilla default profile!
+io.netty.handler.timeout.ReadTimeoutException: null
