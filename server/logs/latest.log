@@ -222,3 +222,12 @@
 
 [18:05:33] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[18:08:34] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[18:08:34] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:46518] logged in with entity id 2835 at ([world]69.5, 72.0, 262.5)
+[18:09:05] [Server thread/INFO]: Penguinrobert lost connection: Login timed out!
+[18:09:05] [Server thread/INFO]: Penguinrobert left the game.
+[18:09:05] [Server thread/WARN]: handleDisconnection() called twice
+[18:09:09] [Thread-8/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[18:09:09] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:56788] logged in with entity id 3023 at ([world]69.01323725775138, 72.0, 262.9539154918292)
+[18:09:53] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[18:09:53] [Server thread/INFO]: Penguinrobert left the game.
