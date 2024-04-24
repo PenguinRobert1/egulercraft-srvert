@@ -219,3 +219,5 @@
 [01:38:00] [Server thread/INFO]: thorduck69420 left the game.
 [01:38:00] [Server thread/WARN]: handleDisconnection() called twice
 [01:38:02] [Server thread/INFO]: Opped Penguinrobert
+[01:38:10] [Thread-8/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
+[01:38:10] [Server thread/INFO]: thorduck69420[/[0:0:0:0:0:0:0:1]:60922] logged in with entity id 301 at ([world]-109.16914676482894, 69.0, -50.11038838852291)
