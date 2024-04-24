@@ -102,3 +102,17 @@
 [01:33:33] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Penguinrobert AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [01:33:33] [Netty Worker IO Thread #2/INFO]: [Penguinrobert] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [01:33:33] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:32832|Penguinrobert] -> UpstreamBridge has disconnected
+[01:34:26] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48156]: Connected via websocket
+[01:34:26] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48156]: Origin header is https://localhost:8081
+[01:34:26] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48156]: Logged in as 'Penguinrobert'
+[01:34:26] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:48156|Penguinrobert] -> UpstreamBridge has connected
+[01:34:26] [Netty Worker IO Thread #5/WARN]: Error occurred processing connection for Penguinrobert AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[01:34:26] [Netty Worker IO Thread #5/INFO]: [Penguinrobert] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[01:34:26] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:48156|Penguinrobert] -> UpstreamBridge has disconnected
+[01:34:33] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57104]: Connected via websocket
+[01:34:33] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57104]: Origin header is https://localhost:8081
+[01:34:33] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57104]: Logged in as 'Penguinrobert'
+[01:34:33] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57104|Penguinrobert] -> UpstreamBridge has connected
+[01:34:33] [Netty Worker IO Thread #7/WARN]: Error occurred processing connection for Penguinrobert AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[01:34:33] [Netty Worker IO Thread #7/INFO]: [Penguinrobert] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[01:34:33] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57104|Penguinrobert] -> UpstreamBridge has disconnected
