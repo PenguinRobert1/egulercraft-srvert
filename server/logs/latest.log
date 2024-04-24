@@ -214,3 +214,10 @@
 [17:51:19] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
 [17:51:35] [Server thread/INFO]: Opped Penguinrobert
+[17:52:50] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[17:52:50] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:59274] logged in with entity id 283 at ([world]-67.28103240471951, 67.0, -100.9732279816089)
+[18:02:22] [Server thread/INFO]: Penguinrobert issued server command: /saveall
+[18:02:31] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[18:02:32] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[18:02:35] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[18:02:35] [Server thread/INFO]: Penguinrobert left the game.

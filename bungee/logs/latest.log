@@ -47,3 +47,12 @@
 [17:52:19] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [17:52:19] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [17:52:19] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[17:52:47] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/egulercraft-srvert/bungee/server-icon.png
+[17:52:50] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52850]: Connected via websocket
+[17:52:50] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52850]: Origin header is https://localhost:8081
+[17:52:50] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52850]: Logged in as 'Penguinrobert'
+[17:52:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52850|Penguinrobert] -> UpstreamBridge has connected
+[17:52:50] [Netty Worker IO Thread #2/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:52850] <-> ServerConnector [lobby] has connected
+[18:02:35] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52850|Penguinrobert] -> UpstreamBridge has disconnected
+[18:02:35] [Netty Worker IO Thread #2/INFO]: [Penguinrobert] disconnected with: Proxy lost connection to server.
+[18:02:35] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52850|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected
