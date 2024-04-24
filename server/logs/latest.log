@@ -215,3 +215,6 @@
 [15:48:58] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
 [15:49:13] [Server thread/INFO]: Opped Penguinrobert
+[15:50:01] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[15:50:01] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:58944] logged in with entity id 282 at ([world]-69.92373154374704, 63.0, -104.58651854327248)
+[15:50:10] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
