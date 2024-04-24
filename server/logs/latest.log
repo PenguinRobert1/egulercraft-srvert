@@ -269,3 +269,39 @@
 
 [16:05:46] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
 
+[16:10:58] [Thread-10/INFO]: UUID of player Skillalogan7722 is a869545a-574b-317f-8ce2-a3161b83a6f8
+[16:10:58] [Server thread/INFO]: Skillalogan7722[/[0:0:0:0:0:0:0:1]:34788] logged in with entity id 984 at ([world]-80.5, 64.0, -86.5)
+[16:13:10] [Server thread/INFO]: Penguinrobert issued server command: /time set 6000
+[16:13:10] [Server thread/INFO]: [Penguinrobert: Set the time to 6000]
+[16:13:29] [Server thread/INFO]: Skillalogan7722 was shot by Skeleton
+[16:13:44] [Server thread/INFO]: Skillalogan7722 issued server command: /back
+[16:13:50] [Server thread/INFO]: Skillalogan7722 issued server command: /back
+[16:13:53] [Server thread/INFO]: Skillalogan7722 issued server command: /back
+[16:13:55] [Server thread/INFO]: Skillalogan7722 issued server command: /back
+[16:14:46] [Server thread/INFO]: Skillalogan7722 has just earned the achievement [Taking Inventory]
+[16:15:04] [Server thread/INFO]: Skillalogan7722 lost connection: Disconnected
+[16:15:04] [Server thread/INFO]: Skillalogan7722 left the game.
+[16:16:58] [Server thread/INFO]: Penguinrobert issued server command: /saveall
+[16:17:05] [Server thread/INFO]: Penguinrobert issued server command: /save_all
+[16:17:15] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[16:17:15] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[16:17:24] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[16:17:24] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[16:17:24] [Server thread/INFO]: Stopping server
+[16:17:24] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[16:17:24] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[16:17:24] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[16:17:24] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[16:17:24] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[16:17:24] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[16:17:24] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[16:17:24] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[16:17:24] [Server thread/INFO]: Saving players
+[16:17:24] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[16:17:24] [Server thread/INFO]: Penguinrobert left the game.
+[16:17:24] [Server thread/INFO]: Saving worlds
+[16:17:24] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:17:24] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[16:17:24] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
