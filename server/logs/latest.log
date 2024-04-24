@@ -213,3 +213,29 @@
 [02:14:24] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
 [02:14:34] [Server thread/INFO]: Opped Penguinrobert
+[02:15:43] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[02:15:43] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:46234] logged in with entity id 248 at ([world]-121.15072382913878, 69.0, -60.30000001192093)
+[02:15:51] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[02:16:10] [Server thread/INFO]: Penguinrobert issued server command: /save
+[02:16:21] [Server thread/INFO]: Penguinrobert issued server command: /saveworld
+[02:16:28] [Server thread/INFO]: Penguinrobert issued server command: /world save
+[02:16:32] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[02:16:32] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[02:16:32] [Server thread/INFO]: Stopping server
+[02:16:32] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[02:16:32] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:16:32] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:16:32] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[02:16:32] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[02:16:32] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[02:16:32] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[02:16:32] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[02:16:32] [Server thread/INFO]: Saving players
+[02:16:32] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[02:16:32] [Server thread/INFO]: Penguinrobert left the game.
+[02:16:32] [Server thread/INFO]: Saving worlds
+[02:16:32] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[02:16:32] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[02:16:32] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
