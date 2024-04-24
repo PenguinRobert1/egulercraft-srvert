@@ -189,3 +189,22 @@
 [17:12:01] [Server thread/INFO]: Preparing spawn area: 61%
 [17:12:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7142347610934979401)
 [17:12:03] [Server thread/INFO]: Preparing spawn area: 51%
+[17:12:03] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7142347610934979401)
+[17:12:03] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.4
+[17:12:03] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[17:12:03] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
+
+[17:12:03] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[17:12:03] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[17:12:04] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[17:12:04] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:12:04] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[17:12:04] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[17:12:04] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[17:12:04] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[17:12:04] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[17:12:04] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[17:12:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:12:04] [Server thread/INFO]: Done (4.305s)! For help, type "help" or "?"
+[17:12:04] [Server thread/INFO]: Timings Reset
