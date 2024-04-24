@@ -218,3 +218,54 @@
 [15:50:01] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
 [15:50:01] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:58944] logged in with entity id 282 at ([world]-69.92373154374704, 63.0, -104.58651854327248)
 [15:50:10] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[15:54:45] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[15:54:45] [Server thread/INFO]: Penguinrobert left the game.
+[15:58:42] [Thread-9/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[15:58:42] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:51678] logged in with entity id 364 at ([world]-60.63024636288867, 63.0625, -102.5620429579377)
+[15:58:49] [pool-4-thread-2/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[16:05:41] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:05:46] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[16:05:46] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[16:05:46] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+
