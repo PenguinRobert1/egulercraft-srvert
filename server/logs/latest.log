@@ -221,3 +221,50 @@
 [01:38:02] [Server thread/INFO]: Opped Penguinrobert
 [01:38:10] [Thread-8/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
 [01:38:10] [Server thread/INFO]: thorduck69420[/[0:0:0:0:0:0:0:1]:60922] logged in with entity id 301 at ([world]-109.16914676482894, 69.0, -50.11038838852291)
+[01:38:31] [Thread-9/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[01:38:31] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:57052] logged in with entity id 304 at ([world]-111.48189911408264, 68.0, -56.81902367735273)
+[01:38:32] [Server thread/INFO]: thorduck69420 issued server command: / login bbbbbb
+[01:38:41] [Server thread/INFO]: thorduck69420 lost connection: Login timed out!
+[01:38:41] [Server thread/INFO]: thorduck69420 left the game.
+[01:38:41] [Server thread/WARN]: handleDisconnection() called twice
+[01:38:47] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[01:39:11] [Thread-10/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
+[01:39:11] [Server thread/INFO]: thorduck69420[/[0:0:0:0:0:0:0:1]:53766] logged in with entity id 319 at ([world]-109.16914676482894, 69.0, -50.11038838852291)
+[01:39:23] [Server thread/INFO]: thorduck69420 issued server command: / login bbbbbb
+[01:39:42] [Server thread/INFO]: thorduck69420 lost connection: Login timed out!
+[01:39:42] [Server thread/INFO]: thorduck69420 left the game.
+[01:39:42] [Server thread/WARN]: handleDisconnection() called twice
+[01:39:53] [Thread-11/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
+[01:39:53] [Server thread/INFO]: thorduck69420[/[0:0:0:0:0:0:0:1]:46014] logged in with entity id 345 at ([world]-109.16914676482894, 69.0, -50.11038838852291)
+[01:41:26] [Server thread/INFO]: Penguinrobert issued server command: /settime 6000
+[01:41:34] [Server thread/INFO]: Penguinrobert issued server command: /timeset 6000
+[01:41:40] [Server thread/INFO]: Penguinrobert issued server command: /set time 6000
+[01:41:47] [Server thread/INFO]: Penguinrobert issued server command: /time set 6000
+[01:41:47] [Server thread/INFO]: [Penguinrobert: Set the time to 6000]
+[01:44:56] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[01:44:56] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 3 items]
+[01:44:59] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[01:44:59] [Server thread/INFO]: Penguinrobert left the game.
+[01:45:05] [Server thread/INFO]: thorduck69420 has just earned the achievement [Getting Wood]
+[01:45:54] [Server thread/INFO]: thorduck69420 tried to swim in lava
+[01:46:00] [Thread-13/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[01:46:00] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:52230] logged in with entity id 837 at ([world]-111.19973537963693, 69.0, -62.78687417157772)
+[01:46:11] [pool-4-thread-2/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[01:46:37] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[01:46:37] [Server thread/INFO]: Penguinrobert left the game.
+[01:53:04] [Server thread/INFO]: thorduck69420 tried to swim in lava
+[02:06:36] [Server thread/INFO]: thorduck69420 lost connection: Disconnected
+[02:06:36] [Server thread/INFO]: thorduck69420 left the game.
+[02:06:52] [Thread-14/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[02:06:52] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:34794] logged in with entity id 1959 at ([world]-112.64349411761094, 69.0, -59.15701136185081)
+[02:07:04] [pool-4-thread-3/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[02:08:29] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[02:08:29] [Server thread/INFO]: Penguinrobert left the game.
+[02:10:47] [Thread-15/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[02:10:47] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:43962] logged in with entity id 2015 at ([world]-118.4640055836062, 69.0, -53.35581303257736)
+[02:11:17] [Server thread/INFO]: Penguinrobert lost connection: Login timed out!
+[02:11:18] [Server thread/INFO]: Penguinrobert left the game.
+[02:11:18] [Server thread/WARN]: handleDisconnection() called twice
+[02:11:22] [Thread-16/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[02:11:22] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:35740] logged in with entity id 2032 at ([world]-118.91169988560767, 70.10442472045722, -53.3506836027925)
+[02:11:29] [pool-4-thread-4/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
