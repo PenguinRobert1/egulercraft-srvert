@@ -215,3 +215,48 @@
 [21:19:12] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
 [21:20:10] [Server thread/INFO]: Opped Penguinrobert
+[21:21:29] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[21:21:29] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:42282] logged in with entity id 287 at ([world]-60.49869198851454, 67.0, -101.5249913450216)
+[21:21:45] [Thread-8/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
+[21:21:45] [Server thread/INFO]: thorduck69420[/[0:0:0:0:0:0:0:1]:57360] logged in with entity id 296 at ([world]-110.66715846276465, 69.0, -64.69999998807907)
+[21:26:31] [Server thread/INFO]: thorduck69420 has just earned the achievement [Benchmarking]
+[21:30:48] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[21:30:48] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[21:49:22] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IndexOutOfBoundsException: Index 80 out of bounds for length 45
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:45) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 80 out of bounds for length 45
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.server.v1_8_R3.Container.getSlot(Container.java:109) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1490) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:31) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInWindowClick.a(SourceFile:9) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) ~[patched_1.8.8.jar:git-PaperSpigot-445]
+	... 5 more
+[21:52:58] [Server thread/INFO]: thorduck69420 has just earned the achievement [Time to Mine!]
+[21:54:59] [Server thread/INFO]: thorduck69420 tried to swim in lava
+[22:07:37] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[22:07:37] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 31 items]
+[22:12:12] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[22:12:12] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 3 items]
+[22:13:52] [Server thread/INFO]: thorduck69420 was slain by Zombie
+[22:14:04] [Server thread/INFO]: Penguinrobert issued server command: /time set 1000
+[22:14:04] [Server thread/INFO]: [Penguinrobert: Set the time to 1000]
+[22:14:29] [Server thread/INFO]: thorduck69420 was slain by Zombie
+[22:14:42] [Server thread/INFO]: 'peaceful' is not a valid number
+[22:15:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
