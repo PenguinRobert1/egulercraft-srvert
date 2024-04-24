@@ -198,3 +198,13 @@
 [15:48:53] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
 [15:48:53] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
 [15:48:53] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:48:54] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:48:54] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[15:48:54] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[15:48:55] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[15:48:55] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[15:48:55] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[15:48:55] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[15:48:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:48:55] [Server thread/INFO]: Done (5.374s)! For help, type "help" or "?"
+[15:48:55] [Server thread/INFO]: Timings Reset
