@@ -223,3 +223,25 @@
 [17:45:01] [Server thread/INFO]: Penguinrobert issued server command: /whitelist thorduck69420
 [18:01:56] [Server thread/INFO]: Penguinrobert issued server command: /gamerule doMobSpawning false
 [18:01:56] [Server thread/INFO]: [Penguinrobert: Game rule has been updated]
+[18:29:30] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[18:29:30] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[18:29:34] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[18:29:34] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[18:29:34] [Server thread/INFO]: Stopping server
+[18:29:34] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[18:29:34] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[18:29:34] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[18:29:34] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[18:29:34] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[18:29:34] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[18:29:34] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[18:29:34] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[18:29:34] [Server thread/INFO]: Saving players
+[18:29:34] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[18:29:34] [Server thread/INFO]: Penguinrobert left the game.
+[18:29:34] [Server thread/INFO]: Saving worlds
+[18:29:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:29:34] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[18:29:34] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
