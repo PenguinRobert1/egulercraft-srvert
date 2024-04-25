@@ -47,3 +47,28 @@
 [00:17:07] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [00:17:07] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [00:17:07] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[00:17:50] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/egulercraft-srvert/bungee/server-icon.png
+[00:17:56] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55724]: Connected via websocket
+[00:17:56] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55724]: Origin header is http://localhost:8081
+[00:17:58] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55724]: Logged in as 'Penguinrobert'
+[00:17:58] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:55724|Penguinrobert] -> UpstreamBridge has connected
+[00:17:58] [Netty Worker IO Thread #2/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:55724] <-> ServerConnector [lobby] has connected
+[00:18:28] [Netty Worker IO Thread #2/INFO]: [Penguinrobert] disconnected with: Login timed out!
+[00:18:28] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:55724|Penguinrobert] -> UpstreamBridge has disconnected
+[00:18:28] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:55724|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:18:36] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49528]: Connected via websocket
+[00:18:36] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49528]: Origin header is http://localhost:8081
+[00:18:39] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49528]: Logged in as 'Penguinrobert'
+[00:18:39] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49528|Penguinrobert] -> UpstreamBridge has connected
+[00:18:39] [Netty Worker IO Thread #3/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:49528] <-> ServerConnector [lobby] has connected
+[00:18:51] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49528|Penguinrobert] -> UpstreamBridge has disconnected
+[00:18:51] [Netty Worker IO Thread #3/INFO]: [Penguinrobert] disconnected with: Proxy lost connection to server.
+[00:18:51] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49528|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected
+[00:19:06] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35968]: Connected via websocket
+[00:19:06] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35968]: Origin header is http://localhost:8081
+[00:19:08] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35968]: Logged in as 'Penguinrobert'
+[00:19:08] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35968|Penguinrobert] -> UpstreamBridge has connected
+[00:19:08] [Netty Worker IO Thread #1/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:35968] <-> ServerConnector [lobby] has connected
+[01:02:56] [Netty Worker IO Thread #1/INFO]: [Penguinrobert] disconnected with: Server closed
+[01:02:56] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35968|Penguinrobert] -> UpstreamBridge has disconnected
+[01:02:56] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:35968|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -215,3 +215,43 @@
 [00:13:19] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
 [00:13:28] [Server thread/INFO]: Opped Penguinrobert
+[00:17:58] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[00:17:58] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:44868] logged in with entity id 287 at ([world]-67.71113780274013, 67.0625, -103.94389012515717)
+[00:18:28] [Server thread/INFO]: Penguinrobert lost connection: Login timed out!
+[00:18:28] [Server thread/INFO]: Penguinrobert left the game.
+[00:18:28] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:39] [Thread-9/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[00:18:39] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:33580] logged in with entity id 294 at ([world]-67.71113780274013, 67.0625, -103.94389012515717)
+[00:18:51] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[00:18:51] [Server thread/INFO]: Penguinrobert left the game.
+[00:19:08] [Thread-10/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[00:19:08] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:38468] logged in with entity id 299 at ([world]-67.36070678375053, 67.0625, -103.18900240489798)
+[00:19:33] [Server thread/INFO]: Penguinrobert issued server command: /lac update
+[00:19:33] [Craft Scheduler Thread - 1/INFO]: [LoginSecurity] Downloading file LoginSecurity-3.2.0-Bukkit (1).jar...
+[00:19:34] [Craft Scheduler Thread - 1/INFO]: [LoginSecurity] Download complete!
+[00:41:47] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[00:41:47] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 8 items]
+[00:47:01] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[00:47:01] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 2 items]
+[01:02:52] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[01:02:52] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[01:02:56] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[01:02:56] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[01:02:56] [Server thread/INFO]: Stopping server
+[01:02:56] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[01:02:56] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[01:02:56] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[01:02:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[01:02:56] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[01:02:56] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[01:02:56] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[01:02:56] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[01:02:56] [Server thread/INFO]: Saving players
+[01:02:56] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[01:02:56] [Server thread/INFO]: Penguinrobert left the game.
+[01:02:57] [Server thread/INFO]: Saving worlds
+[01:02:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:02:57] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:02:57] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
