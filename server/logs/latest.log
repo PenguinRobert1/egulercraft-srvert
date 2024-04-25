@@ -260,3 +260,42 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 80 out of bounds for lengt
 [22:14:42] [Server thread/INFO]: 'peaceful' is not a valid number
 [22:15:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[22:16:30] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[22:16:30] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[22:29:05] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[22:29:05] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 5 items]
+[22:36:14] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[22:36:14] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 3 items]
+[22:38:09] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[22:38:09] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[22:43:50] [Server thread/INFO]: thorduck69420 has just earned the achievement [Time to Strike!]
+[22:56:20] [Server thread/INFO]: thorduck69420 lost connection: Disconnected
+[22:56:20] [Server thread/INFO]: thorduck69420 left the game.
+[23:06:21] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[23:06:21] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 7 items]
+[23:12:44] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[23:12:44] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 4 items]
+[23:17:22] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[23:17:22] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 4 items]
+[23:46:40] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[23:46:40] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[23:46:44] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[23:46:44] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[23:46:44] [Server thread/INFO]: Stopping server
+[23:46:44] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[23:46:44] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[23:46:44] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[23:46:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[23:46:44] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[23:46:44] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[23:46:44] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[23:46:44] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[23:46:44] [Server thread/INFO]: Saving players
+[23:46:44] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[23:46:44] [Server thread/INFO]: Penguinrobert left the game.
+[23:46:44] [Server thread/INFO]: Saving worlds
+[23:46:44] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:46:44] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[23:46:44] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
