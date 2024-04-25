@@ -221,3 +221,5 @@
 [17:44:29] [Server thread/INFO]: [Penguinrobert: Game rule has been updated]
 [17:44:33] [Server thread/INFO]: Penguinrobert issued server command: /gamerule
 [17:45:01] [Server thread/INFO]: Penguinrobert issued server command: /whitelist thorduck69420
+[18:01:56] [Server thread/INFO]: Penguinrobert issued server command: /gamerule doMobSpawning false
+[18:01:56] [Server thread/INFO]: [Penguinrobert: Game rule has been updated]
