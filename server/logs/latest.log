@@ -219,3 +219,31 @@
 
 [17:15:31] [Server thread/INFO]: Turned on the whitelist
 [17:17:17] [Server thread/INFO]: Added Penguinrobert to the whitelist
+[17:17:55] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[17:17:55] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:57238] logged in with entity id 300 at ([world]-81.15561394707342, 55.0, -73.09011478025548)
+[17:18:23] [Server thread/INFO]: Penguinrobert issued server command: /gamerule keepInventory true
+[17:18:23] [Server thread/INFO]: [Penguinrobert: Game rule has been updated]
+[17:19:00] [Server thread/INFO]: Penguinrobert issued server command: /gamerule mobGriefing false
+[17:19:00] [Server thread/INFO]: [Penguinrobert: Game rule has been updated]
+[17:19:12] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[17:19:12] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[17:19:15] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[17:19:15] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[17:19:15] [Server thread/INFO]: Stopping server
+[17:19:15] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[17:19:15] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[17:19:15] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[17:19:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:19:15] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[17:19:15] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[17:19:15] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[17:19:15] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[17:19:15] [Server thread/INFO]: Saving players
+[17:19:15] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[17:19:15] [Server thread/INFO]: Penguinrobert left the game.
+[17:19:15] [Server thread/INFO]: Saving worlds
+[17:19:15] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:19:15] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:19:15] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
