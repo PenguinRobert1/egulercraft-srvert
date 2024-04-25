@@ -47,3 +47,33 @@
 [21:29:14] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [21:29:14] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [21:29:14] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[21:32:43] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/egulercraft-srvert/bungee/server-icon.png
+[21:32:48] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60728]: Connected via websocket
+[21:32:48] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60728]: Origin header is https://fun-miles2.netlify.app
+[21:32:48] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60728]: Logged in as 'thorduck69420'
+[21:32:48] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60728|thorduck69420] -> UpstreamBridge has connected
+[21:32:48] [Netty Worker IO Thread #2/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:60728] <-> ServerConnector [lobby] has connected
+[21:32:48] [Netty Worker IO Thread #2/INFO]: [thorduck69420] disconnected with: Kicked whilst connecting to lobby: You are not whitelisted on this server!
+[21:32:48] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60728|thorduck69420] -> UpstreamBridge has disconnected
+[21:32:48] [Netty Worker IO Thread #2/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:60728] <-> ServerConnector [lobby] has disconnected
+[21:33:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42780]: Connected via websocket
+[21:33:04] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42780]: Origin header is https://localhost:8081
+[21:33:06] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42780]: Logged in as 'Penguinrobert'
+[21:33:06] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42780|Penguinrobert] -> UpstreamBridge has connected
+[21:33:06] [Netty Worker IO Thread #3/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:42780] <-> ServerConnector [lobby] has connected
+[21:33:39] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37064]: Connected via websocket
+[21:33:39] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37064]: Origin header is https://fun-miles2.netlify.app
+[21:33:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37064]: Logged in as 'thorduck69420'
+[21:33:40] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:37064|thorduck69420] -> UpstreamBridge has connected
+[21:33:40] [Netty Worker IO Thread #0/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:37064] <-> ServerConnector [lobby] has connected
+[21:33:41] [Netty Worker IO Thread #0/INFO]: [thorduck69420] disconnected with: Kicked whilst connecting to lobby: You are not whitelisted on this server!
+[21:33:41] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:37064|thorduck69420] -> UpstreamBridge has disconnected
+[21:33:41] [Netty Worker IO Thread #0/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:37064] <-> ServerConnector [lobby] has disconnected
+[21:34:12] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51050]: Connected via websocket
+[21:34:12] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51050]: Origin header is https://fun-miles2.netlify.app
+[21:34:12] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51050]: Logged in as 'thorduck69420'
+[21:34:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51050|thorduck69420] -> UpstreamBridge has connected
+[21:34:12] [Netty Worker IO Thread #2/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:51050] <-> ServerConnector [lobby] has connected
+[21:34:12] [Netty Worker IO Thread #2/INFO]: [thorduck69420] disconnected with: Kicked whilst connecting to lobby: You are not whitelisted on this server!
+[21:34:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51050|thorduck69420] -> UpstreamBridge has disconnected
+[21:34:12] [Netty Worker IO Thread #2/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:51050] <-> ServerConnector [lobby] has disconnected
