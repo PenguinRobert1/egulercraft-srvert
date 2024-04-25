@@ -51,9 +51,9 @@ world-settings:
       tnt-entities: false
       falling-blocks: false
     player-blocking-damage-multiplier: 0.5
+    remove-invalid-mob-spawner-tile-entities: true
     optimize-explosions: false
     mob-spawner-tick-rate: 1
-    remove-invalid-mob-spawner-tile-entities: true
     cache-chunk-maps: false
     tnt-explosion-volume: 4.0
     squid-spawn-height:
