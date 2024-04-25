@@ -214,3 +214,7 @@
 [02:41:21] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
 [02:41:27] [Server thread/INFO]: Opped Penguinrobert
+[02:42:42] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[02:42:43] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:43230] logged in with entity id 300 at ([world]-83.02557364629888, 66.0, -65.46605015933324)
+[02:48:30] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[02:48:30] [Server thread/INFO]: Penguinrobert left the game.
