@@ -213,3 +213,9 @@
 
 [17:13:18] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[17:14:57] [Server thread/INFO]: Opped Penguinrobert
+[17:15:07] [Server thread/INFO]: Usage: /whitelist <on|off|list|add|remove|reload>
+[17:15:20] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[17:15:31] [Server thread/INFO]: Turned on the whitelist
+[17:17:17] [Server thread/INFO]: Added Penguinrobert to the whitelist
