@@ -35,6 +35,7 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
+    nether-ceiling-void-damage: false
     load-chunks:
       enderpearls: false
       tnt-entities: false
@@ -53,14 +54,14 @@ world-settings:
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 900
+    player-blocking-damage-multiplier: 0.5
+    remove-invalid-mob-spawner-tile-entities: true
     player-exhaustion:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
     despawn-ranges:
       soft: 60
       hard: 128
-    player-blocking-damage-multiplier: 0.5
-    remove-invalid-mob-spawner-tile-entities: true
     falling-block-height-nerf: 0
     remove-unloaded:
       enderpearls: true
@@ -71,7 +72,6 @@ world-settings:
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: true
-    nether-ceiling-void-damage: false
     fast-drain:
       lava: true
       water: true
