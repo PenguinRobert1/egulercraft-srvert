@@ -45,3 +45,5 @@
 [16:30:34] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
 [16:30:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
 [16:30:34] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[16:30:34] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[16:30:34] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
