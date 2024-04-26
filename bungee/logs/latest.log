@@ -53,3 +53,6 @@
 [15:05:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37456]: Logged in as 'Penguinrobert'
 [15:05:16] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37456|Penguinrobert] -> UpstreamBridge has connected
 [15:05:16] [Netty Worker IO Thread #2/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:37456] <-> ServerConnector [lobby] has connected
+[15:10:48] [Netty Worker IO Thread #2/INFO]: [Penguinrobert] disconnected with: Server closed
+[15:10:48] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37456|Penguinrobert] -> UpstreamBridge has disconnected
+[15:10:48] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37456|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected
