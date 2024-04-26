@@ -214,3 +214,9 @@
 
 [13:08:35] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[13:09:13] [Thread-7/INFO]: UUID of player ser1 is cbf5a527-1bcd-3b19-b3aa-727d2cd5a028
+[13:09:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4b218f2a[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@6031c8a2], isEaglerPlayer=[com.mojang.authlib.properties.Property@15b56bb6]},legacy=false] (/[0:0:0:0:0:0:0:1]:58594): You are not whitelisted on this server!
+[13:09:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b218f2a[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@6031c8a2], isEaglerPlayer=[com.mojang.authlib.properties.Property@15b56bb6]},legacy=false] (/[0:0:0:0:0:0:0:1]:58594) lost connection: You are not whitelisted on this server!
+[13:09:27] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[13:09:50] [Server thread/INFO]: Added ser1 to the whitelist
