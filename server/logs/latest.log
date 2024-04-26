@@ -174,3 +174,29 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 
 [16:49:53] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[16:50:24] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[16:50:24] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:57586] logged in with entity id 221 at ([world]-61.00184801020001, 63.0, -93.58471175532377)
+[16:50:34] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[16:51:40] [Server thread/INFO]: Penguinrobert issued server command: /gamemode a
+[16:51:40] [Server thread/INFO]: [Penguinrobert: Set own game mode to Adventure Mode]
+[16:52:47] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[16:52:47] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[16:52:50] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[16:52:50] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[16:52:50] [Server thread/INFO]: Stopping server
+[16:52:50] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[16:52:50] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[16:52:50] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[16:52:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[16:52:50] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[16:52:50] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[16:52:50] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[16:52:50] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[16:52:50] [Server thread/INFO]: Saving players
+[16:52:50] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[16:52:50] [Server thread/INFO]: Penguinrobert left the game.
+[16:52:50] [Server thread/INFO]: Saving worlds
+[16:52:50] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:52:51] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
