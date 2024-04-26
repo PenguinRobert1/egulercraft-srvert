@@ -232,3 +232,63 @@
 [13:11:03] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:49622] logged in with entity id 222 at ([world]-56.732861177180425, 64.0, -82.35540754053908)
 [13:11:25] [Server thread/INFO]: Penguinrobert issued server command: /whitelist add ser1
 [13:11:25] [Server thread/INFO]: [Penguinrobert: Added ser1 to the whitelist]
+[13:13:00] [Thread-11/INFO]: UUID of player ser1 is cbf5a527-1bcd-3b19-b3aa-727d2cd5a028
+[13:13:00] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2481eec3[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@4fb7dc5c], isEaglerPlayer=[com.mojang.authlib.properties.Property@3f2d2a2e]},legacy=false] (/[0:0:0:0:0:0:0:1]:60536): You are not whitelisted on this server!
+[13:13:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@2481eec3[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@4fb7dc5c], isEaglerPlayer=[com.mojang.authlib.properties.Property@3f2d2a2e]},legacy=false] (/[0:0:0:0:0:0:0:1]:60536) lost connection: You are not whitelisted on this server!
+[13:13:16] [Thread-12/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
+[13:13:16] [Server thread/INFO]: thorduck69420[/[0:0:0:0:0:0:0:1]:47470] logged in with entity id 225 at ([world]-111.64287362571572, 63.0, -53.67214670495913)
+[13:15:50] [Server thread/INFO]: Penguinrobert issued server command: /permissons
+[13:15:53] [Server thread/INFO]: Penguinrobert issued server command: /help
+[13:16:13] [Server thread/INFO]: Penguinrobert issued server command: /.s
+[13:16:28] [Server thread/INFO]: Penguinrobert issued server command: /cs thorduck69420
+[13:16:43] [Server thread/INFO]: Penguinrobert issued server command: /xp
+[13:17:02] [Server thread/INFO]: Penguinrobert issued server command: /xp 10000000000 Penguinrobert
+[13:17:02] [Server thread/INFO]: [Penguinrobert: '10000000000' is not a valid number]
+[13:17:29] [Server thread/INFO]: Penguinrobert issued server command: /xp 100000000000 Penguinrobert
+[13:17:29] [Server thread/INFO]: [Penguinrobert: '100000000000' is not a valid number]
+[13:18:16] [Server thread/INFO]: Penguinrobert issued server command: /xp <1000000000000> [Penguinrobert]
+[13:18:16] [Server thread/INFO]: [Penguinrobert: '<1000000000000>' is not a valid number]
+[13:18:31] [Server thread/INFO]: Penguinrobert issued server command: //contract
+[13:18:58] [Server thread/INFO]: Penguinrobert issued server command: //ex
+[13:19:22] [Server thread/INFO]: Penguinrobert issued server command: /op thorduck69420
+[13:19:22] [Server thread/INFO]: [Penguinrobert: Opped thorduck69420]
+[13:19:51] [Server thread/INFO]: Penguinrobert issued server command: /unop thorduck69420
+[13:20:06] [Server thread/INFO]: thorduck69420 issued server command: /gamemode c
+[13:20:06] [Server thread/INFO]: [thorduck69420: Set own game mode to Creative Mode]
+[13:20:10] [Server thread/INFO]: thorduck69420 issued server command: /gamemode s
+[13:20:10] [Server thread/INFO]: [thorduck69420: Set own game mode to Survival Mode]
+[13:21:06] [Server thread/INFO]: thorduck69420 was slain by Penguinrobert
+[13:21:30] [Server thread/INFO]: Penguinrobert issued server command: /gamemode c
+[13:21:30] [Server thread/INFO]: [Penguinrobert: Set own game mode to Creative Mode]
+[13:21:37] [Server thread/INFO]: Penguinrobert issued server command: /gamemode s
+[13:21:37] [Server thread/INFO]: [Penguinrobert: Set own game mode to Survival Mode]
+[13:21:40] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[13:21:40] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[13:22:31] [Server thread/INFO]: Penguinrobert issued server command: /give Penguinrobert sea_lanturn 1
+[13:22:31] [Server thread/INFO]: [Penguinrobert: There is no such item with name minecraft:sea_lanturn]
+[13:22:37] [Server thread/INFO]: Penguinrobert issued server command: /gamemode c
+[13:22:37] [Server thread/INFO]: [Penguinrobert: Set own game mode to Creative Mode]
+[13:25:10] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[13:25:10] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 5 items]
+[13:27:06] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[13:27:06] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[13:27:10] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[13:27:10] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[13:27:10] [Server thread/INFO]: Stopping server
+[13:27:10] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[13:27:10] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[13:27:10] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[13:27:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[13:27:10] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[13:27:10] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[13:27:10] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[13:27:10] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[13:27:10] [Server thread/INFO]: Saving players
+[13:27:10] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[13:27:10] [Server thread/INFO]: Penguinrobert left the game.
+[13:27:10] [Server thread/INFO]: Saving worlds
+[13:27:10] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:27:10] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[13:27:10] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
