@@ -77,3 +77,14 @@
 [21:34:12] [Netty Worker IO Thread #2/INFO]: [thorduck69420] disconnected with: Kicked whilst connecting to lobby: You are not whitelisted on this server!
 [21:34:12] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51050|thorduck69420] -> UpstreamBridge has disconnected
 [21:34:12] [Netty Worker IO Thread #2/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:51050] <-> ServerConnector [lobby] has disconnected
+[21:36:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35092]: Connected via websocket
+[21:36:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35092]: Origin header is https://fun-miles2.netlify.app
+[21:36:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35092]: Logged in as 'thorduck69420'
+[21:36:46] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35092|thorduck69420] -> UpstreamBridge has connected
+[21:36:46] [Netty Worker IO Thread #3/INFO]: [thorduck69420|/[0:0:0:0:0:0:0:1%0]:35092] <-> ServerConnector [lobby] has connected
+[22:06:10] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35092|thorduck69420] -> UpstreamBridge has disconnected
+[22:06:10] [Netty Worker IO Thread #3/INFO]: [thorduck69420] disconnected with: Proxy lost connection to server.
+[22:06:10] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35092|thorduck69420] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:32:56] [Netty Worker IO Thread #3/INFO]: [Penguinrobert] disconnected with: Server closed
+[22:32:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42780|Penguinrobert] -> UpstreamBridge has disconnected
+[22:32:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42780|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected

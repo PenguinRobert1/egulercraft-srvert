@@ -226,3 +226,48 @@
 [21:34:12] [Thread-11/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
 [21:34:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@9a3ca40[id=7143ccbd-93cf-3830-b650-165315855ade,name=thorduck69420,properties={textures=[com.mojang.authlib.properties.Property@60edddc4], isEaglerPlayer=[com.mojang.authlib.properties.Property@332d00b9]},legacy=false] (/[0:0:0:0:0:0:0:1]:52338): You are not whitelisted on this server!
 [21:34:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@9a3ca40[id=7143ccbd-93cf-3830-b650-165315855ade,name=thorduck69420,properties={textures=[com.mojang.authlib.properties.Property@60edddc4], isEaglerPlayer=[com.mojang.authlib.properties.Property@332d00b9]},legacy=false] (/[0:0:0:0:0:0:0:1]:52338) lost connection: You are not whitelisted on this server!
+[21:36:19] [Server thread/INFO]: Penguinrobert issued server command: /whitelist add thorduck69420
+[21:36:19] [Server thread/INFO]: [Penguinrobert: Added thorduck69420 to the whitelist]
+[21:36:33] [Server thread/INFO]: Penguinrobert issued server command: /whitelist list
+[21:36:46] [Thread-12/INFO]: UUID of player thorduck69420 is 7143ccbd-93cf-3830-b650-165315855ade
+[21:36:46] [Server thread/INFO]: thorduck69420[/[0:0:0:0:0:0:0:1]:59822] logged in with entity id 270 at ([world]-110.1076649135081, 69.0, -52.60116616918942)
+[21:38:38] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[21:38:38] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 14 items]
+[21:42:24] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[21:42:24] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 10 items]
+[21:45:57] [Server thread/INFO]: thorduck69420 issued server command: /c
+[21:53:31] [Server thread/INFO]: thorduck69420 has just earned the achievement [Hot Topic]
+[21:54:47] [Server thread/INFO]: Penguinrobert issued server command: /tp thorduck69420 Penguinrobert
+[21:54:47] [Server thread/INFO]: [Penguinrobert: Teleported thorduck69420 to Penguinrobert]
+[21:59:19] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[21:59:19] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 3 items]
+[22:00:44] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[22:00:44] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[22:04:27] [Server thread/INFO]: Penguinrobert issued server command: /tp Penguinrobert thorduck69420
+[22:04:27] [Server thread/INFO]: [Penguinrobert: Teleported Penguinrobert to thorduck69420]
+[22:05:52] [Server thread/INFO]: Penguinrobert issued server command: /tp thorduck69420 Penguinrobert
+[22:05:52] [Server thread/INFO]: [Penguinrobert: Teleported thorduck69420 to Penguinrobert]
+[22:06:10] [Server thread/INFO]: thorduck69420 lost connection: Disconnected
+[22:06:10] [Server thread/INFO]: thorduck69420 left the game.
+[22:32:48] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[22:32:48] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[22:32:56] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[22:32:56] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[22:32:56] [Server thread/INFO]: Stopping server
+[22:32:56] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[22:32:56] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[22:32:56] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[22:32:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:32:56] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[22:32:56] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[22:32:56] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[22:32:56] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[22:32:56] [Server thread/INFO]: Saving players
+[22:32:56] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[22:32:56] [Server thread/INFO]: Penguinrobert left the game.
+[22:32:56] [Server thread/INFO]: Saving worlds
+[22:32:56] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:32:56] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[22:32:56] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
