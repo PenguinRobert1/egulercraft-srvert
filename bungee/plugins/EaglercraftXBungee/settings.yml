@@ -6,7 +6,7 @@ http_websocket_compression_level: 6
 download_vanilla_skins_to_clients: true
 valid_skin_download_urls:
  - 'textures.minecraft.net'
-uuid_lookup_ratelimit_player: 50
+uuid_lookup_ratelimit_player: 5
 uuid_lookup_ratelimit_global: 175
 skin_download_ratelimit_player: 1000
 skin_download_ratelimit_global: 30000
