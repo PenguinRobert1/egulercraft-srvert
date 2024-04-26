@@ -47,3 +47,9 @@
 [15:03:15] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [15:03:15] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [15:03:15] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[15:05:13] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/egulercraft-srvert/bungee/server-icon.png
+[15:05:15] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37456]: Connected via websocket
+[15:05:15] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37456]: Origin header is https://localhost:8081
+[15:05:16] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37456]: Logged in as 'Penguinrobert'
+[15:05:16] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37456|Penguinrobert] -> UpstreamBridge has connected
+[15:05:16] [Netty Worker IO Thread #2/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:37456] <-> ServerConnector [lobby] has connected

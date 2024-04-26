@@ -174,3 +174,5 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 
 [15:02:50] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[15:05:16] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[15:05:16] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:42524] logged in with entity id 217 at ([world]-122.11117834980114, 66.0, -100.26568566273255)
