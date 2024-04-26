@@ -16,9 +16,9 @@ effect-modifiers:
   strength: 1.3
   weakness: -0.5
 stackable-buckets:
-  lava: false
-  water: false
-  milk: false
+  lava: true
+  water: true
+  milk: true
 warnWhenSettingExcessiveVelocity: true
 world-settings:
   default:
@@ -43,13 +43,13 @@ world-settings:
     optimize-explosions: false
     mob-spawner-tick-rate: 1
     cache-chunk-maps: false
-    tnt-explosion-volume: 4.0
+    tnt-explosion-volume: 0
     squid-spawn-height:
       minimum: 45.0
       maximum: 63.0
     max-growth-height:
-      cactus: 3
-      reeds: 3
+      cactus: 100000000
+      reeds: 100000000
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 900
@@ -57,7 +57,7 @@ world-settings:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
     despawn-ranges:
-      soft: 32
+      soft: 60
       hard: 128
     player-blocking-damage-multiplier: 0.5
     remove-invalid-mob-spawner-tile-entities: true
@@ -70,11 +70,11 @@ world-settings:
       boats-drop-boats: false
       disable-player-crits: false
       disable-chest-cat-detection: false
-      disable-end-credits: false
+      disable-end-credits: true
     nether-ceiling-void-damage: false
     fast-drain:
-      lava: false
-      water: false
+      lava: true
+      water: true
     lava-flow-speed:
       normal: 30
       nether: 10
@@ -83,8 +83,8 @@ world-settings:
     fix-cannons: false
     tnt-entity-height-nerf: 0
     use-hopper-check: false
-    all-chunks-are-slime-chunks: false
-    allow-undead-horse-leashing: false
+    all-chunks-are-slime-chunks: true
+    allow-undead-horse-leashing: true
     container-update-tick-rate: 1
     keep-spawn-loaded: true
     falling-blocks-collide-with-signs: false
