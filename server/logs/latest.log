@@ -220,3 +220,15 @@
 [13:09:27] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
 [13:09:50] [Server thread/INFO]: Added ser1 to the whitelist
+[13:10:38] [Thread-8/INFO]: UUID of player ser1 is cbf5a527-1bcd-3b19-b3aa-727d2cd5a028
+[13:10:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ea4abfd[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@1e57cbfc], isEaglerPlayer=[com.mojang.authlib.properties.Property@1a685cee]},legacy=false] (/[0:0:0:0:0:0:0:1]:41866): You are not whitelisted on this server!
+[13:10:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5ea4abfd[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@1e57cbfc], isEaglerPlayer=[com.mojang.authlib.properties.Property@1a685cee]},legacy=false] (/[0:0:0:0:0:0:0:1]:41866): You are not whitelisted on this server!
+[13:10:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ea4abfd[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@1e57cbfc], isEaglerPlayer=[com.mojang.authlib.properties.Property@1a685cee]},legacy=false] (/[0:0:0:0:0:0:0:1]:41866) lost connection: You are not whitelisted on this server!
+[13:10:47] [Thread-9/INFO]: UUID of player ser1 is cbf5a527-1bcd-3b19-b3aa-727d2cd5a028
+[13:10:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@181c3179[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@26420c7a], isEaglerPlayer=[com.mojang.authlib.properties.Property@227d9c6a]},legacy=false] (/[0:0:0:0:0:0:0:1]:48486): You are not whitelisted on this server!
+[13:10:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@181c3179[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@26420c7a], isEaglerPlayer=[com.mojang.authlib.properties.Property@227d9c6a]},legacy=false] (/[0:0:0:0:0:0:0:1]:48486): You are not whitelisted on this server!
+[13:10:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@181c3179[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@26420c7a], isEaglerPlayer=[com.mojang.authlib.properties.Property@227d9c6a]},legacy=false] (/[0:0:0:0:0:0:0:1]:48486) lost connection: You are not whitelisted on this server!
+[13:11:03] [Thread-10/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[13:11:03] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:49622] logged in with entity id 222 at ([world]-56.732861177180425, 64.0, -82.35540754053908)
+[13:11:25] [Server thread/INFO]: Penguinrobert issued server command: /whitelist add ser1
+[13:11:25] [Server thread/INFO]: [Penguinrobert: Added ser1 to the whitelist]
