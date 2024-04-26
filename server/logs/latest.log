@@ -174,3 +174,55 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 
 [19:31:48] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[19:32:57] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[19:32:57] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:36694] logged in with entity id 222 at ([world]-95.24555915527587, 82.25045482836525, -77.37639655080821)
+[19:33:00] [Thread-8/INFO]: UUID of player sowrdsmithsoren5 is d05d5a39-cf40-3b2d-b5dc-3b8e2c6bb6a6
+[19:33:00] [Server thread/INFO]: sowrdsmithsoren5[/[0:0:0:0:0:0:0:1]:42352] logged in with entity id 223 at ([world]-60.98292029031278, 63.0, -94.75926235142099)
+[19:33:09] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[19:33:10] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[19:34:35] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[19:34:35] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[19:36:02] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[19:36:02] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[19:38:35] [Server thread/INFO]: sowrdsmithsoren5 lost connection: Disconnected
+[19:38:35] [Server thread/INFO]: sowrdsmithsoren5 left the game.
+[19:40:47] [Thread-10/INFO]: UUID of player sowrdsmithsoren5 is d05d5a39-cf40-3b2d-b5dc-3b8e2c6bb6a6
+[19:40:47] [Server thread/INFO]: sowrdsmithsoren5[/[0:0:0:0:0:0:0:1]:48734] logged in with entity id 353 at ([world]-55.04756305873635, 64.0, -81.2628382086375)
+[19:40:48] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[19:40:48] [Server thread/INFO]: Penguinrobert left the game.
+[19:40:56] [pool-4-thread-2/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[19:41:01] [Thread-11/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[19:41:01] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:52636] logged in with entity id 356 at ([world]-41.29346526679869, 65.03213675214016, -81.0110814798046)
+[19:41:08] [pool-4-thread-2/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[19:41:13] [Async Chat Thread - #0/INFO]: <Penguinrobert> soren[m
+
+[19:41:22] [Server thread/INFO]: sowrdsmithsoren5 issued server command: /gamemode c
+[19:41:22] [Server thread/INFO]: [sowrdsmithsoren5: Set own game mode to Creative Mode]
+[19:41:37] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[19:41:37] [Server thread/INFO]: Penguinrobert left the game.
+[19:41:44] [Server thread/INFO]: sowrdsmithsoren5 issued server command: /gamemode s
+[19:41:44] [Server thread/INFO]: [sowrdsmithsoren5: Set own game mode to Survival Mode]
+[19:41:44] [Thread-12/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[19:41:44] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:42312] logged in with entity id 361 at ([world]-41.29346526679869, 65.03213675214016, -81.0110814798046)
+[19:41:51] [pool-4-thread-2/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[19:41:55] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[19:41:55] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[19:41:58] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[19:41:58] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[19:41:58] [Server thread/INFO]: Stopping server
+[19:41:58] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[19:41:58] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[19:41:58] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[19:41:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[19:41:58] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[19:41:58] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[19:41:58] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[19:41:58] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[19:41:58] [Server thread/INFO]: Saving players
+[19:41:58] [Server thread/INFO]: sowrdsmithsoren5 lost connection: Server closed
+[19:41:58] [Server thread/INFO]: sowrdsmithsoren5 left the game.
+[19:41:58] [Server thread/INFO]: Saving worlds
+[19:41:58] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:41:58] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
