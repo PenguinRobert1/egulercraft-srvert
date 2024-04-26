@@ -35,13 +35,13 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
+    optimize-explosions: false
+    mob-spawner-tick-rate: 1
     load-chunks:
       enderpearls: false
       tnt-entities: false
       falling-blocks: false
     disable-teleportation-suffocation-check: false
-    optimize-explosions: false
-    mob-spawner-tick-rate: 1
     cache-chunk-maps: false
     tnt-explosion-volume: 0
     squid-spawn-height:
@@ -59,9 +59,9 @@ world-settings:
     despawn-ranges:
       soft: 60
       hard: 128
+    falling-block-height-nerf: 0
     player-blocking-damage-multiplier: 0.5
     remove-invalid-mob-spawner-tile-entities: true
-    falling-block-height-nerf: 0
     remove-unloaded:
       enderpearls: true
       tnt-entities: true
