@@ -174,3 +174,11 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 
 [17:13:01] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[17:14:25] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[17:14:25] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:45716] logged in with entity id 220 at ([world]-82.41169857537642, 64.0, -107.69999998807907)
+[17:14:35] [Server thread/INFO]: Penguinrobert issued server command: /gamemode c
+[17:14:42] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[17:14:45] [Server thread/INFO]: Penguinrobert issued server command: /gamemode c
+[17:14:45] [Server thread/INFO]: [Penguinrobert: Set own game mode to Creative Mode]
+[17:18:43] [Server thread/INFO]: Penguinrobert issued server command: /give Penguinrobert command_block
+[17:18:43] [Server thread/INFO]: [Penguinrobert: Given [Command Block] * 1 to Penguinrobert]
