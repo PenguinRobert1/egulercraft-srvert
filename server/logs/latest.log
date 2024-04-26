@@ -174,3 +174,8 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 
 [16:30:23] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[16:31:02] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[16:31:03] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:38740] logged in with entity id 217 at ([world]-123.69255343150219, 66.0, -98.23105744119901)
+[16:31:11] [pool-4-thread-1/WARN]: [LoginSecurity] Updater was in unexpected state, please report on https://github.com/lenis0012/LoginSecurity-2/issues
+[16:31:16] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[16:31:16] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
