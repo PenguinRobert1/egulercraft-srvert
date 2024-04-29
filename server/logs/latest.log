@@ -174,3 +174,46 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 
 [12:06:03] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[12:06:45] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[12:06:45] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:56378] logged in with entity id 233 at ([world]-41.29346526679869, 65.03213675214016, -81.0110814798046)
+[12:07:53] [Server thread/INFO]: Penguinrobert issued server command: /size 100
+[12:13:29] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[12:13:29] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 6 items]
+[12:31:44] [Thread-9/INFO]: UUID of player sowrdsmithsoren5 is d05d5a39-cf40-3b2d-b5dc-3b8e2c6bb6a6
+[12:31:44] [Server thread/INFO]: sowrdsmithsoren5[/[0:0:0:0:0:0:0:1]:40074] logged in with entity id 945 at ([world]-64.69999998807906, 64.0, -83.30000001192093)
+[12:32:16] [Server thread/INFO]: Penguinrobert issued server command: /tp Penguinrobert sowrdsmithsoren5
+[12:32:16] [Server thread/INFO]: [Penguinrobert: Teleported Penguinrobert to sowrdsmithsoren5]
+[12:33:38] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[12:33:38] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 3 items]
+[12:35:50] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[12:35:50] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[12:37:30] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[12:37:30] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[12:40:19] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[12:40:19] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 9 items]
+[12:40:33] [Server thread/INFO]: Penguinrobert issued server command: /clear
+[12:40:33] [Server thread/INFO]: [Penguinrobert: Cleared the inventory of Penguinrobert, removing 1 items]
+[12:43:05] [Async Chat Thread - #0/INFO]: <Penguinrobert> what you doing[m
+
+[12:43:37] [Server thread/INFO]: Penguinrobert issued server command: /unop sowrdsmithsoren5
+[12:43:55] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[12:43:55] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[12:43:58] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[12:43:58] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[12:43:58] [Server thread/INFO]: Stopping server
+[12:43:58] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[12:43:58] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[12:43:58] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[12:43:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[12:43:58] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[12:43:58] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[12:43:58] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[12:43:58] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[12:43:58] [Server thread/INFO]: Saving players
+[12:43:58] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[12:43:58] [Server thread/INFO]: Penguinrobert left the game.
+[12:43:58] [Server thread/INFO]: Saving worlds
+[12:43:58] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:43:58] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

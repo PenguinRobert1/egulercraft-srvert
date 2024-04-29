@@ -47,3 +47,21 @@
 [12:06:13] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [12:06:13] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [12:06:13] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[12:06:44] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39200]: Connected via websocket
+[12:06:44] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39200]: Origin header is http://localhost:8081
+[12:06:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39200]: Logged in as 'Penguinrobert'
+[12:06:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39200|Penguinrobert] -> UpstreamBridge has connected
+[12:06:45] [Netty Worker IO Thread #1/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:39200] <-> ServerConnector [lobby] has connected
+[12:31:42] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/egulercraft-srvert/bungee/server-icon.png
+[12:31:44] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56784]: Connected via websocket
+[12:31:44] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56784]: Origin header is http://localhost:8081
+[12:31:44] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56784]: Logged in as 'sowrdsmithsoren5'
+[12:31:44] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56784|sowrdsmithsoren5] -> UpstreamBridge has connected
+[12:31:44] [Netty Worker IO Thread #2/INFO]: [sowrdsmithsoren5|/[0:0:0:0:0:0:0:1%0]:56784] <-> ServerConnector [lobby] has connected
+[12:43:58] [Netty Worker IO Thread #1/INFO]: [Penguinrobert] disconnected with: Server closed
+[12:43:58] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39200|Penguinrobert] -> UpstreamBridge has disconnected
+[12:43:58] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39200|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected
+[12:43:59] [Netty Worker IO Thread #2/WARN]: [/[0:0:0:0:0:0:0:1%0]:56784|sowrdsmithsoren5] <-> DownstreamBridge <-> [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[12:43:59] [Netty Worker IO Thread #2/INFO]: [sowrdsmithsoren5] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[12:43:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56784|sowrdsmithsoren5] -> UpstreamBridge has disconnected
+[12:43:59] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:56784|sowrdsmithsoren5] <-> DownstreamBridge <-> [lobby] has disconnected
