@@ -174,3 +174,33 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 
 [12:10:11] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[12:12:12] [Thread-7/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[12:12:12] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:39468] logged in with entity id 232 at ([world]-80.114573934669, 79.03041184972567, -66.425701749143)
+[12:12:41] [Server thread/INFO]: Penguinrobert issued server command: /lac update
+[12:12:41] [Craft Scheduler Thread - 1/INFO]: [LoginSecurity] Downloading file LoginSecurity-3.2.0-Bukkit (1).jar...
+[12:12:42] [Craft Scheduler Thread - 1/INFO]: [LoginSecurity] Download complete!
+[12:14:09] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[12:14:09] [Server thread/INFO]: Penguinrobert left the game.
+[12:14:12] [Thread-8/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
+[12:14:12] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:52312] logged in with entity id 256 at ([world]-104.46902900666018, 72.0, -58.28130110097206)
+[12:14:22] [Server thread/INFO]: Penguinrobert issued server command: /save-all
+[12:14:22] [Server thread/INFO]: [Penguinrobert: Saved the world]
+[12:14:26] [Server thread/INFO]: Penguinrobert issued server command: /stop
+[12:14:26] [Server thread/INFO]: [Penguinrobert: Stopping the server]
+[12:14:26] [Server thread/INFO]: Stopping server
+[12:14:26] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[12:14:26] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[12:14:26] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[12:14:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[12:14:26] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[12:14:26] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[12:14:26] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[12:14:26] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[12:14:26] [Server thread/INFO]: Saving players
+[12:14:26] [Server thread/INFO]: Penguinrobert lost connection: Server closed
+[12:14:26] [Server thread/INFO]: Penguinrobert left the game.
+[12:14:26] [Server thread/INFO]: Saving worlds
+[12:14:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:14:26] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
