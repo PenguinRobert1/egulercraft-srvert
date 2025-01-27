@@ -199,3 +199,20 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 [19:53:26] [Server thread/INFO]: Penguinrobert issued server command: /gamemode s
 [19:53:26] [Server thread/INFO]: [Penguinrobert: Set own game mode to Survival Mode]
 [19:55:36] [Server thread/INFO]: [@: Given [Mycelium] * 64 to Penguinrobert]
+[20:02:02] [Thread-9/INFO]: UUID of player sowrdsmithsoren5 is d05d5a39-cf40-3b2d-b5dc-3b8e2c6bb6a6
+[20:02:02] [Server thread/INFO]: sowrdsmithsoren5[/[0:0:0:0:0:0:0:1]:60394] logged in with entity id 330 at ([world]-124.69999998807909, 70.0, -125.49597341840075)
+[20:05:00] [Server thread/INFO]: Penguinrobert lost connection: Disconnected
+[20:05:00] [Server thread/INFO]: Penguinrobert left the game.
+[20:05:11] [Thread-10/INFO]: UUID of player ser1 is cbf5a527-1bcd-3b19-b3aa-727d2cd5a028
+[20:05:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@10f1055d[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@4b49bf06], isEaglerPlayer=[com.mojang.authlib.properties.Property@4f7622b7]},legacy=false] (/[0:0:0:0:0:0:0:1]:58790): true
+[20:05:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@10f1055d[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@4b49bf06], isEaglerPlayer=[com.mojang.authlib.properties.Property@4f7622b7]},legacy=false] (/[0:0:0:0:0:0:0:1]:58790) lost connection: true
+[20:05:42] [Thread-11/INFO]: UUID of player ser1 is cbf5a527-1bcd-3b19-b3aa-727d2cd5a028
+[20:05:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2562f5d5[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@3ece4811], isEaglerPlayer=[com.mojang.authlib.properties.Property@557e3937]},legacy=false] (/[0:0:0:0:0:0:0:1]:55186): true
+[20:05:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@2562f5d5[id=cbf5a527-1bcd-3b19-b3aa-727d2cd5a028,name=ser1,properties={textures=[com.mojang.authlib.properties.Property@3ece4811], isEaglerPlayer=[com.mojang.authlib.properties.Property@557e3937]},legacy=false] (/[0:0:0:0:0:0:0:1]:55186) lost connection: true
+[20:05:52] [Thread-12/INFO]: UUID of player Ser1 is 88b6f910-6fc1-3ab5-9b85-d354586e8918
+[20:05:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@64a560fe[id=88b6f910-6fc1-3ab5-9b85-d354586e8918,name=Ser1,properties={textures=[com.mojang.authlib.properties.Property@1eb183ab], isEaglerPlayer=[com.mojang.authlib.properties.Property@c1c5b81]},legacy=false] (/[0:0:0:0:0:0:0:1]:40632): true
+[20:05:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@64a560fe[id=88b6f910-6fc1-3ab5-9b85-d354586e8918,name=Ser1,properties={textures=[com.mojang.authlib.properties.Property@1eb183ab], isEaglerPlayer=[com.mojang.authlib.properties.Property@c1c5b81]},legacy=false] (/[0:0:0:0:0:0:0:1]:40632) lost connection: true
+[20:06:29] [Thread-13/INFO]: UUID of player Ser1 is 88b6f910-6fc1-3ab5-9b85-d354586e8918
+[20:06:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7da9da88[id=88b6f910-6fc1-3ab5-9b85-d354586e8918,name=Ser1,properties={textures=[com.mojang.authlib.properties.Property@3efa3a33], isEaglerPlayer=[com.mojang.authlib.properties.Property@1f74e05c]},legacy=false] (/[0:0:0:0:0:0:0:1]:46078): true
+[20:06:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7da9da88[id=88b6f910-6fc1-3ab5-9b85-d354586e8918,name=Ser1,properties={textures=[com.mojang.authlib.properties.Property@3efa3a33], isEaglerPlayer=[com.mojang.authlib.properties.Property@1f74e05c]},legacy=false] (/[0:0:0:0:0:0:0:1]:46078): true
+[20:06:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@7da9da88[id=88b6f910-6fc1-3ab5-9b85-d354586e8918,name=Ser1,properties={textures=[com.mojang.authlib.properties.Property@3efa3a33], isEaglerPlayer=[com.mojang.authlib.properties.Property@1f74e05c]},legacy=false] (/[0:0:0:0:0:0:0:1]:46078) lost connection: true
