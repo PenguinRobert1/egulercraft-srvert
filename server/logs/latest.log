@@ -222,3 +222,13 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 [20:07:29] [Thread-15/INFO]: UUID of player Penguinrobert is a712e519-7a05-375b-8a16-9e02441f0e70
 [20:07:29] [Server thread/INFO]: Penguinrobert[/[0:0:0:0:0:0:0:1]:56962] logged in with entity id 483 at ([world]-85.16925121495657, 66.0, -63.6527524804913)
 [20:08:19] [Server thread/INFO]: sowrdsmithsoren5 has just earned the achievement [Benchmarking]
+[20:15:25] [Server thread/INFO]: Penguinrobert issued server command: /gamemode c
+[20:15:25] [Server thread/INFO]: [Penguinrobert: Set own game mode to Creative Mode]
+[20:15:40] [Server thread/INFO]: Penguinrobert issued server command: /gamemode s
+[20:15:40] [Server thread/INFO]: [Penguinrobert: Set own game mode to Survival Mode]
+[20:15:46] [Server thread/INFO]: Penguinrobert issued server command: /weather clear
+[20:15:46] [Server thread/INFO]: [Penguinrobert: Changing to clear weather]
+[20:17:59] [Async Chat Thread - #0/INFO]: <sowrdsmithsoren5> gamemode c[m
+
+[20:19:18] [Server thread/INFO]: Penguinrobert issued server command: /tp Penguinrobert sowrdsmithsoren5
+[20:19:18] [Server thread/INFO]: [Penguinrobert: Teleported Penguinrobert to sowrdsmithsoren5]
