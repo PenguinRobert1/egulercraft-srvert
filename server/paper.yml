@@ -35,6 +35,17 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
+    remove-unloaded:
+      enderpearls: true
+      tnt-entities: true
+      falling-blocks: true
+    game-mechanics:
+      boats-drop-boats: false
+      disable-player-crits: false
+      disable-chest-cat-detection: false
+      disable-end-credits: true
+    nether-ceiling-void-damage: false
+    remove-invalid-mob-spawner-tile-entities: true
     optimize-explosions: false
     mob-spawner-tick-rate: 1
     cache-chunk-maps: false
@@ -55,19 +66,8 @@ world-settings:
       soft: 60
       hard: 128
     falling-block-height-nerf: 0
-    remove-unloaded:
-      enderpearls: true
-      tnt-entities: true
-      falling-blocks: true
-    game-mechanics:
-      boats-drop-boats: false
-      disable-player-crits: false
-      disable-chest-cat-detection: false
-      disable-end-credits: true
-    remove-invalid-mob-spawner-tile-entities: true
-    player-blocking-damage-multiplier: 0.5
     disable-teleportation-suffocation-check: false
-    nether-ceiling-void-damage: false
+    player-blocking-damage-multiplier: 0.5
     load-chunks:
       enderpearls: false
       tnt-entities: false
@@ -85,11 +85,11 @@ world-settings:
     use-hopper-check: false
     all-chunks-are-slime-chunks: true
     allow-undead-horse-leashing: true
+    container-update-tick-rate: 1
+    keep-spawn-loaded: true
     falling-blocks-collide-with-signs: false
     disable-mood-sounds: false
     use-async-lighting: false
-    keep-spawn-loaded: true
-    container-update-tick-rate: 1
     portal-search-radius: 128
     disable-thunder: false
     disable-ice-and-snow: false
