@@ -106,3 +106,9 @@
 [20:07:29] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50368]: Logged in as 'Penguinrobert'
 [20:07:29] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:50368|Penguinrobert] -> UpstreamBridge has connected
 [20:07:29] [Netty Worker IO Thread #3/INFO]: [Penguinrobert|/[0:0:0:0:0:0:0:1%0]:50368] <-> ServerConnector [lobby] has connected
+[20:22:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:43006|sowrdsmithsoren5] -> UpstreamBridge has disconnected
+[20:22:04] [Netty Worker IO Thread #2/INFO]: [sowrdsmithsoren5] disconnected with: Proxy lost connection to server.
+[20:22:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:43006|sowrdsmithsoren5] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:22:50] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:50368|Penguinrobert] -> UpstreamBridge has disconnected
+[20:22:50] [Netty Worker IO Thread #3/INFO]: [Penguinrobert] disconnected with: Proxy lost connection to server.
+[20:22:50] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:50368|Penguinrobert] <-> DownstreamBridge <-> [lobby] has disconnected
